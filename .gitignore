@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.egg-info/
+*.egg
+*.env
+.env
+venv/
+ENV/
+env/
+*.log
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyTorch models (optional if you plan to download them)
+*.pt
+*.pth
+
